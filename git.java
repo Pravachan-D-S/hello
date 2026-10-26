@@ -1,6 +1,8 @@
 class git{
     void main(String [] args){
         System.out.println("this is initial commit ");
+        MAIN m=new MAIN();
+        m.print1();
     }
 }
 class MAIN{
